@@ -1,0 +1,114 @@
+ダウンロード開始：2020/01/06 20:10:37
+
+● http://m-creates.jp から C:\Users\PC-USER\Documents\m-creates.jp へ
+
+about.html
+service.html
+contact.html
+persolog.html
+dream-map.html
+sitemap.html
+index.html
+
+● http://m-creates.jp/news から C:\Users\PC-USER\Documents\m-creates.jp\news へ
+
+index.html
+
+● http://m-creates.jp/news/news から C:\Users\PC-USER\Documents\m-creates.jp\news\news へ
+
+news_20161121.html
+news_20161026.html
+
+● http://m-creates.jp/user/media/mcreates/page/index から C:\Users\PC-USER\Documents\m-creates.jp\user\media\mcreates\page\index へ
+
+ttl03.jpg
+ttl02.jpg
+ttl01.jpg
+img05.jpg
+img04.jpg
+img03.jpg
+img02.jpg
+img01.jpg
+04.png
+03.png
+02.png
+01.png
+
+● http://m-creates.jp/user/theme/mcreates/media/css から C:\Users\PC-USER\Documents\m-creates.jp\user\theme\mcreates\media\css へ
+
+layout.css
+import.css
+common.css
+class.css
+base.css
+
+● http://m-creates.jp/user/theme/mcreates/media/img から C:\Users\PC-USER\Documents\m-creates.jp\user\theme\mcreates\media\img へ
+
+bg01.png
+
+● http://m-creates.jp/user/media/mcreates/layout/footer から C:\Users\PC-USER\Documents\m-creates.jp\user\media\mcreates\layout\footer へ
+
+logo.png
+btn01.png
+bnr03.jpg
+bnr02.jpg
+bnr01.jpg
+
+● http://m-creates.jp/user/media/mcreates/page/dream-map から C:\Users\PC-USER\Documents\m-creates.jp\user\media\mcreates\page\dream-map へ
+
+ttl01.jpg
+img09.jpg
+img08.jpg
+img07.jpg
+img06.jpg
+img05.jpg
+img04.jpg
+img01.jpg
+bnr01.jpg
+
+● http://m-creates.jp/user/media/mcreates/page/service から C:\Users\PC-USER\Documents\m-creates.jp\user\media\mcreates\page\service へ
+
+ttl02.jpg
+ttl01.jpg
+nav05.jpg
+nav04.jpg
+nav03.jpg
+nav02.jpg
+nav01.jpg
+img05.jpg
+img04.jpg
+img03.jpg
+img02.jpg
+img01.jpg
+btn01.png
+
+● http://m-creates.jp/user/theme/mcreates/media/js から C:\Users\PC-USER\Documents\m-creates.jp\user\theme\mcreates\media\js へ
+
+common.js
+
+● http://m-creates.jp/user から C:\Users\PC-USER\Documents\m-creates.jp\user へ
+
+Pctime=20180223101646_favicon.ico （"favicon.ico?ctime=20180223101646" から変更）
+
+● http://m-creates.jp/user/media/mcreates/page/about から C:\Users\PC-USER\Documents\m-creates.jp\user\media\mcreates\page\about へ
+
+ttl02.jpg
+ttl01.jpg
+img03.jpg
+img02.jpg
+img01.jpg
+
+● http://m-creates.jp/user/media/mcreates/page/persolog から C:\Users\PC-USER\Documents\m-creates.jp\user\media\mcreates\page\persolog へ
+
+persolog-note.jpg
+img02.jpg
+
+● http://m-creates.jp/user/media/mcreates/layout/header から C:\Users\PC-USER\Documents\m-creates.jp\user\media\mcreates\layout\header へ
+
+logo.jpg
+
+ダウンロード完了：2020/01/06 20:10:44
+
+ダウンロード予定数：65
+ダウンロード総数：65
+エラーはありませんでした。

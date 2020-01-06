@@ -1,0 +1,378 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+
+/*===============================================
+ LightCMS用（管理画面の幅を設定。基本的には#PAGEと同じ幅を全て指定する。）
+===============================================*/
+
+#centerColumn {
+  width: 1000px;
+}
+
+#leftColumn {
+  width: 1000px;
+}
+
+#rightColumn {
+  width: 1000px;
+}
+
+
+/*===============================================
+table
+===============================================*/
+
+.table01 {
+  width: 100%;
+}
+
+.table01 th {
+  padding: 10px;
+  border: 1px solid #ddd;
+  background: #387dba;
+  color: #fff;
+}
+
+.table01 td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  background: #fff;
+  vertical-align: middle;
+}
+
+.table02 {
+  width: 100%;
+}
+
+.table02 th {
+  padding: 10px;
+  border: 1px solid #ddd;
+  background: #f8f8f8;
+}
+
+.table02 td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  background: #fff;
+  vertical-align: middle;
+}
+
+
+/*===============================================
+button
+===============================================*/
+
+.button01 {
+  position: relative;
+  display: inline-block;
+  width: 140px;
+  line-height: 40px;
+  border-radius: 20px;
+  border: none;
+  background: #eee;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  -webkit-appearance: none;
+}
+
+.button01::before {
+  position: absolute;
+  content: "";
+  top: 50%;
+  right: 10px;
+  width: 5px;
+  height: 5px;
+  margin: -5px 0 0 0;
+  border-top: 2px solid #387dba;
+  border-right: 2px solid #387dba;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.button01:hover::before {
+  right: 8px;
+}
+
+.button02 {
+  position: relative;
+  display: inline-block;
+  width: 300px;
+  line-height: 45px;
+  border-radius: 5px;
+  border: none;
+  background: #009845;
+  font-size: 17px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  -webkit-appearance: none;
+}
+
+.button02::before {
+  position: absolute;
+  content: "";
+  top: 50%;
+  right: 15px;
+  width: 5px;
+  height: 5px;
+  margin: -5px 0 0 0;
+  border-top: 2px solid #fff;
+  border-right: 2px solid #fff;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.button02:hover {
+  color: #fff;
+}
+
+.button02:hover::before {
+  right: 10px;
+}
+
+.button03 {
+  position: relative;
+  display: inline-block;
+  width: 300px;
+  line-height: 45px;
+  border-radius: 5px;
+  border: none;
+  background: #387dba;
+  font-size: 17px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  -webkit-appearance: none;
+}
+
+.button03::before {
+  position: absolute;
+  content: "";
+  top: 50%;
+  right: 15px;
+  width: 5px;
+  height: 5px;
+  margin: -5px 0 0 0;
+  border-top: 2px solid #fff;
+  border-right: 2px solid #fff;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.button03:hover {
+  color: #fff;
+}
+
+.button03:hover::before {
+  right: 10px;
+}
+
+
+/*===============================================
+リンク、色
+===============================================*/
+
+a {
+  color: #333;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #387dba;
+  text-decoration: none;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+.playfair {
+  font-family: 'Playfair Display SC', serif;
+}
+
+.fMin {
+  font-family: "ヒラギノ明朝 ProN", "HiraMinProN", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+}
+
+.fBlue {
+  color: #387dba !important;
+}
+
+.fPink {
+  color: #ff7bac !important;
+}
+
+.line01 {
+  background: linear-gradient(transparent 60%, #fcee21 60%);
+}
+
+.fix_link {
+  margin-top: -50px;
+  padding-top: 50px;
+}
+
+
+/*===============================================
+inner、box
+===============================================*/
+
+.inner {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.inner02 {
+  width: 830px;
+  margin: 0 auto;
+}
+
+.box01 {
+  padding: 90px 0;
+  background: #f8f8f8;
+}
+
+.bdr_box {
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #ddd;
+}
+
+
+/*===============================================
+見出し
+===============================================*/
+
+
+/*画像見出し用の記述*/
+
+.original {
+  background: none;
+  text-indent: 0px;
+  line-height: inherit;
+  letter-spacing: normal;
+  height: auto;
+  margin: 0px;
+  padding: 0px;
+}
+
+h3 {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+  font-size: 21px;
+  color: #387dba;
+}
+
+h4 {
+  margin-bottom: 20px;
+  padding: 0 0 0 10px;
+  border-left: 3px solid #387dba;
+  font-size: 19px;
+  font-weight: normal;
+}
+
+h5 {
+  margin-bottom: 15px;
+  font-size: 17px;
+  font-weight: normal;
+}
+
+h5:before {
+  content: "▪︎";
+  color: #387dba;
+}
+
+.ttl01 {
+  line-height: 1.5;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.ttl02 {
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.ttl02 span {
+  font-family: 'Playfair Display SC', serif;
+  font-size: 36px;
+  color: #387dba;
+}
+
+
+/*===============================================
+list
+===============================================*/
+
+ul.list01 li {}
+
+
+/*===============================================
+お知らせ管理
+===============================================*/
+
+.newsList h4 {
+  margin: 30px 0 0 0;
+}
+
+.newsList h4:empty {
+  display: none;
+}
+
+.newsarea_text {
+  margin: 15px 0;
+}
+
+.newsarea_text:empty {
+  display: none;
+}
+
+.newsarea_img {
+  text-align: center;
+  margin: 15px auto 0 auto;
+}
+
+.newsarea_img:empty {
+  display: none;
+}
+
+.newsarea_img img {
+  max-width: 100%;
+  height: auto;
+  width/****/
+  : auto;
+}
+
+.pager {
+  text-align: center;
+  margin: 20px 0px 0px 0px;
+}
+
+.pager a {
+  display: inline-block;
+  font-weight: bold;
+  background: #ffffff;
+  color: #387dba !important;
+  text-decoration: none !important;
+  border: 1px solid #387dba;
+  margin-right: 4px;
+  padding: 5px 8px;
+  text-decoration: none;
+}
+
+.pager a:hover {
+  background: #387dba;
+  color: #ffffff !important;
+}
+
+.pager .current {
+  display: inline-block;
+  font-weight: bold;
+  color: #fff;
+  background: #387dba;
+  border: 1px solid #387dba;
+  margin-right: 4px;
+  padding: 5px 8px;
+}
